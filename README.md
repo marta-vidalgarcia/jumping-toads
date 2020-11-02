@@ -2,7 +2,7 @@
 
 Here we provide the R code to obtain the kinematic variables from the paper:
 
-<img width="800" alt="paper_title" src="https://github.com/marta-vidalgarcia/jumping-toads/tree/master/figs/paper_title.png">
+<img width="800" alt="paper-title" src="https://github.com/marta-vidalgarcia/jumping-toads/tree/master/figs/paper-title.png">
 
 <br> 
 
