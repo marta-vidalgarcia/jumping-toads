@@ -4,7 +4,11 @@ Here we provide the R code to obtain the kinematic variables from the paper:
 
 <img width="800" alt="paper-title" src="https://github.com/marta-vidalgarcia/jumping-toads/blob/master/figs/paper-title.png">
 
-<br><br><br>   
+<br><br>
+
+***
+
+<br>   
 
 If you use the R code in this repository, please cite our paper: 
 
